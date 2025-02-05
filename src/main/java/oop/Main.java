@@ -1,4 +1,4 @@
-import oop.Keyboard;
+package oop;
 
 public class Main {
 
