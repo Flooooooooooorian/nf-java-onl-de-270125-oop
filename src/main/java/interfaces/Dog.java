@@ -11,6 +11,11 @@ public class Dog implements Animal{
     }
 
     @Override
+    public String getColor() {
+        return "";
+    }
+
+    @Override
     public String toString() {
         return "Dog{" +
                "distance=" + distance +
