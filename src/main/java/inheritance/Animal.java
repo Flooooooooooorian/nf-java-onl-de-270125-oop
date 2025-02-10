@@ -7,6 +7,7 @@ public class Animal {
     protected boolean saeugetier;
     protected int countExtremtiaeten;
     protected String color;
+    protected int age;
 
     public Animal() {
         System.out.println("Important variable");
